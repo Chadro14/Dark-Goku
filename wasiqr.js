@@ -73,7 +73,7 @@ ______________________________________
 ║❒ *Repo:* _https://github.com/Chadro14/Dark_Goku-_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/EGSeev12now6YTZYlTAxkr
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y
-║❒ *Plugins:* _https://github.com/Fearless-tech1 
+║❒ *Plugins:* _https://github.com/Chadro14
 ╚════════════════════════╝
 _____________________________________
 	
