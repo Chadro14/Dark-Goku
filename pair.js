@@ -57,20 +57,20 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by ZENITSU*
-*_Made With 🚬🗿_*
+*_Pair Code Connected by Dark Goku*
+*_Made With 🐉_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ZENITSU CRASH V2 』*
+║ *『 AMAZING YOU'VE CHOSEN Dark Goku 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
-║❒ *Owner:* https://wa.me/2348075952205_
-║❒ *Repo:* _https://github.com/Fearless-tech1_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
+║❒ *Ytube:* _http://www.youtube.com/@AltesseMwamboko
+║❒ *Owner:* https://wa.me/243905526836_
+║❒ *Repo:* _https://github.com/Chadro14/Dark_Goku-_
+║❒ *WaGroup:* _https://chat.whatsapp.com/EGSeev12now6YTZYlTAxkr
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y
 ║❒ *Plugins:* _https://github.com/Fearless-tech1 
 ╚════════════════════════╝
 _____________________________________
